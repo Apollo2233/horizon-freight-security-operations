@@ -22,17 +22,14 @@ Monitored systems include:
 • Network Infrastructure Devices  
 
 Security events from these systems are analyzed through the SOC monitoring platform to detect suspicious behavior and respond to threats.
-
----
-
 ## SOC Command Center
 
-The SOC Command Center dashboard provides real-time visibility into security alerts, active investigations, and threat activity across the Horizon Freight environment.
+The Horizon Freight Security Operations Center (SOC) dashboard provides real-time visibility into security alerts, ongoing investigations, and threat activity across the enterprise environment.
 
-Security analysts use the dashboard to monitor alerts, triage incidents, and coordinate response actions.
+Security analysts use this command center to monitor alerts, triage incidents, track investigation metrics, and coordinate response efforts.
 
 ![SOC Dashboard](screenshots/soc-dashboard.png)
-
+---
 ---
 
 ## Security Monitoring Capabilities
