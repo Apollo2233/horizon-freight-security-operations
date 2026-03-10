@@ -38,6 +38,13 @@ Security alerts are reviewed and classified through the SOC triage queue. Analys
 This process helps prioritize high-risk threats and ensures timely response to potential security incidents.
 
 ![Alert Triage](screenshots/alert-triage.png)
+## Log Explorer
+
+The SOC Log Explorer provides centralized visibility into security telemetry collected from multiple infrastructure sources including firewalls, VPN gateways, DNS servers, and Windows event logs.
+
+Security analysts use this interface to investigate suspicious activity, correlate security events, and identify potential indicators of compromise across the environment.
+
+![Log Explorer](screenshots/log-explorer.png)
 ## Security Monitoring Capabilities
 
 The SOC platform supports detection and investigation of security events such as:
