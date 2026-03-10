@@ -45,6 +45,14 @@ The SOC Log Explorer provides centralized visibility into security telemetry col
 Security analysts use this interface to investigate suspicious activity, correlate security events, and identify potential indicators of compromise across the environment.
 
 ![Log Explorer](screenshots/log-explorer.png)
+## Case Management
+
+Security incidents that require deeper investigation are escalated into cases.  
+The case management system allows analysts to track investigation progress, containment actions, remediation steps, and recovery status.
+
+Each case tracks operational metrics such as Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR), which help measure the efficiency of the SOC response process.
+
+![Case Management](screenshots/case-management.png)
 ## Security Monitoring Capabilities
 
 The SOC platform supports detection and investigation of security events such as:
