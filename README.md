@@ -31,7 +31,13 @@ Security analysts use this command center to monitor alerts, triage incidents, t
 ![SOC Dashboard](screenshots/soc-dashboard.png)
 ---
 ---
+## Alert Triage
 
+Security alerts are reviewed and classified through the SOC triage queue. Analysts evaluate alert severity, associated MITRE ATT&CK tactics, and determine whether escalation or investigation is required.
+
+This process helps prioritize high-risk threats and ensures timely response to potential security incidents.
+
+![Alert Triage](screenshots/alert-triage.png)
 ## Security Monitoring Capabilities
 
 The SOC platform supports detection and investigation of security events such as:
